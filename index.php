@@ -118,6 +118,7 @@
     ?>
 
     // Halo! Ini Update.
+    //Halo! ini adalah komen.
 </div>
 
 </body>
