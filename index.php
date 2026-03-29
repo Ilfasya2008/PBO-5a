@@ -116,6 +116,8 @@
         $user->printProfile();
     }
     ?>
+
+    // Halo! Ini Update.
 </div>
 
 </body>
